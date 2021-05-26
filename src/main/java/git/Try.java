@@ -12,5 +12,6 @@ class Try {
         System.out.println("hello Git modify");//修改代码后，类显示处会变蓝，加了buff
         System.out.println("hello Git modify2");
         System.out.println("hello Git modify3 hot-fix");
+        System.out.println("hello Git modify4 hot-fix2");
     }
 }
