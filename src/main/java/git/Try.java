@@ -16,5 +16,6 @@ class Try {
         System.out.println("hello Git modify4 hot-fix2");
         System.out.println("hello Git modify5 push test");
         System.out.println("hello Git modify6 pull test");
+        System.out.println("hello Git modify7 push test2");
     }
 }
